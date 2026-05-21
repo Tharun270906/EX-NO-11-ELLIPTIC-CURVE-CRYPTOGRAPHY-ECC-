@@ -100,7 +100,8 @@ return 0;
 
 
 ## Output:
-<img width="1912" height="1084" alt="image" src="https://github.com/user-attachments/assets/42371ada-d891-4fd7-9787-e889194577de" />
+<img width="1600" height="695" alt="crypto-11" src="https://github.com/user-attachments/assets/6b7110eb-4101-4949-aaeb-ecb8259e6cde" />
+
 
 
 ## Result:
